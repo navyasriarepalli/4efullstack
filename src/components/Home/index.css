@@ -1,0 +1,26 @@
+.home-bg{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    background-color: #66023c;
+    height: 100vh;
+   
+}
+.home-cont{
+    background-color: white;
+    color: #66023c;
+    border-color: rgb(100, 42, 42);
+    padding: 2%;
+    border-radius: 10px;
+    font-size: 25px;
+    margin: 2%;
+    margin-top: 5%;
+    
+    
+}
+.home-scheduler{
+    width:75vw;
+    height: 30vh;
+    border-radius: 10px;
+}
